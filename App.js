@@ -32,7 +32,7 @@ const App = () => {
             />
             <Boat
                 name="PRINCESS V48"
-                icon_name="boat"
+                icon_name="sailboat"
                 icon_color="gray"
                 description="There is the option for an open design with a full-length cockpit and sunroof, or the enclosed deck saloon model, available with the option of a climate controlled interior."
                 poster={require('./img/princess.jpg')}
